@@ -53,7 +53,7 @@ https://<YOUR_PUBLIC_URL>/webhook
 #### ngrok使って公開して接続すると便利
 ```
 brew install ngrok/ngrok/ngrok
-ngrok config add-authtoken 30uJvfYl3ecGLehd2defmVJO4Bc_34Z1r1XTnvQnvweMT2xAL
+ngrok config add-authtoken xxxxxxxxxxx
 ngrok http http://localhost:3999
 ```
 
